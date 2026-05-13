@@ -1,64 +1,109 @@
 # Branco Molassi
 
+### Embedded Systems & Industrial Automation Engineer
+
+Electronic Engineer focused on:
+
+- Embedded Systems
+- Industrial Automation
+- Robotics
+- Industrial Test Systems
+- Real-Time Systems
+
 ---
 
 ## Curriculum Vitae
 
-- 🇦🇷 [CV Español](./cv/Branco_Molassi_CV(Es).pdf)  
-- 🇺🇸 [CV English](./cv/Branco_Molassi_CV(En).pdf)
-- 🇧🇷 [CV Português](./cv/Branco_Molassi_CV(Br).pdf)
+- 🇦🇷 [CV Español](./cv/Branco_Molassi_CV_ES.pdf)
+- 🇺🇸 [CV English](./cv/Branco_Molassi_CV_EN.pdf)
+- 🇧🇷 [CV Português](./cv/Branco_Molassi_CV_BR.pdf)
 
 ---
 
-### Embedded Systems & Industrial Automation Engineer
+## Technical Skills
 
-Electronic Engineer with experience in:
+### Industrial Automation
+- PLC Programming
+- HMI & SCADA Systems
+- Siemens TIA Portal
+- Industrial Networking
+- PROFINET / MODBUS
 
-- PLC | HMI | SCADA
-- Industrial Automation with siemens
-- MODBUS | PROFINET
-- Embedded Systems
-- STM32 | ESP32 | ESP-IDF
-- CAN | I2C | RS485 | UART
+### Embedded Systems
+- ESP32 / ESP-IDF
+- STM32
 - FreeRTOS
+- UART / SPI / I2C / CAN / RS485
+- PWM Motor Control
+- Real-Time Embedded Applications
+
+### Hardware Design
+- Altium Designer
+- PCB Design
+- Industrial Electronics
+- Power Electronics
+- Signal Acquisition
 
 ---
 
 ## About Me
 
-I have 6 years of experience in industrial development and automation projects.
+I have experience developing industrial automation and embedded systems solutions for real production environments.
 
-I enjoy solving problems and seeing how everything comes to life once it is completed.
+My work includes:
 
-I have a strong interest in technology, robotics and embedded systems.
+- Industrial test systems
+- Embedded control applications
+- Human-machine interfaces
+- Industrial communications
+- Motor control systems
+- Electronic hardware development
+
+I enjoy designing robust systems and transforming ideas into functional industrial solutions.
 
 ---
 
 ## Featured Projects
 
 ### ESP32 Industrial Hose Cutting Machine
-- ESP-IDF
-- FreeRTOS
-- TFT HMI
+Industrial embedded system developed with ESP-IDF and FreeRTOS.
+
+Features:
+- TFT graphical HMI
 - Encoder feedback
 - PWM motor control
-- Industrial deployment
+- Industrial operator interface
+- Real-time task architecture
 
 ---
 
-## Technologies
+### Industrial Test Benches
+Development of industrial testing systems for production environments.
 
-- C / C++
-- ESP-IDF
-- STM32
-- FreeRTOS
-- TIA Portal
-- SCADA
-- Altium Designer
+Technologies:
+- PLC + HMI integration
+- Industrial communication protocols
+- Automated testing
+- Data acquisition
+- Industrial instrumentation
+
+---
+
+## Industrial Projects Gallery
+
+Photos and examples of:
+- Industrial HMIs
+- Control panels
+- Embedded hardware
+- PCB development
+- Automation systems
+- Industrial prototypes
+
+➡️ [View Gallery](./industrial-photos/)
 
 ---
 
 ## Contact
 
-- LinkedIn
-- GitHub
+- [LinkedIn](#)
+- [GitHub](#)
