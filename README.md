@@ -4,9 +4,9 @@
 
 ## Curriculum Vitae
 
-- 🇦🇷 [CV Español](./cv/Branco_Molassi_CV_ES.pdf)
-- 🇺🇸 [CV English](./cv/Branco_Molassi_CV_EN.pdf)
-- 🇧🇷 [CV Português](./cv/Branco_Molassi_CV_PT.pdf)
+- 🇦🇷 [CV Español](./cv/Branco_Molassi_CV(Es).pdf)  
+- 🇺🇸 [CV English](./cv/Branco_Molassi_CV(En).pdf)
+- 🇧🇷 [CV Português](./cv/Branco_Molassi_CV(Br).pdf)
 
 ---
 
